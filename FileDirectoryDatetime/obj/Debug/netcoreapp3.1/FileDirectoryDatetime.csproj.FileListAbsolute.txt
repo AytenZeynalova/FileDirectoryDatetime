@@ -1,0 +1,17 @@
+C:\Users\aytnz\Desktop\FileDirectoryDatetime\FileDirectoryDatetime\obj\Debug\netcoreapp3.1\FileDirectoryDatetime.csproj.AssemblyReference.cache
+C:\Users\aytnz\Desktop\FileDirectoryDatetime\FileDirectoryDatetime\obj\Debug\netcoreapp3.1\FileDirectoryDatetime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aytnz\Desktop\FileDirectoryDatetime\FileDirectoryDatetime\obj\Debug\netcoreapp3.1\FileDirectoryDatetime.AssemblyInfoInputs.cache
+C:\Users\aytnz\Desktop\FileDirectoryDatetime\FileDirectoryDatetime\obj\Debug\netcoreapp3.1\FileDirectoryDatetime.AssemblyInfo.cs
+C:\Users\aytnz\Desktop\FileDirectoryDatetime\FileDirectoryDatetime\obj\Debug\netcoreapp3.1\FileDirectoryDatetime.csproj.CoreCompileInputs.cache
+C:\Users\aytnz\Desktop\FileDirectoryDatetime\FileDirectoryDatetime\bin\Debug\netcoreapp3.1\FileDirectoryDatetime.exe
+C:\Users\aytnz\Desktop\FileDirectoryDatetime\FileDirectoryDatetime\bin\Debug\netcoreapp3.1\FileDirectoryDatetime.deps.json
+C:\Users\aytnz\Desktop\FileDirectoryDatetime\FileDirectoryDatetime\bin\Debug\netcoreapp3.1\FileDirectoryDatetime.runtimeconfig.json
+C:\Users\aytnz\Desktop\FileDirectoryDatetime\FileDirectoryDatetime\bin\Debug\netcoreapp3.1\FileDirectoryDatetime.runtimeconfig.dev.json
+C:\Users\aytnz\Desktop\FileDirectoryDatetime\FileDirectoryDatetime\bin\Debug\netcoreapp3.1\FileDirectoryDatetime.dll
+C:\Users\aytnz\Desktop\FileDirectoryDatetime\FileDirectoryDatetime\bin\Debug\netcoreapp3.1\FileDirectoryDatetime.pdb
+C:\Users\aytnz\Desktop\FileDirectoryDatetime\FileDirectoryDatetime\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\aytnz\Desktop\FileDirectoryDatetime\FileDirectoryDatetime\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\aytnz\Desktop\FileDirectoryDatetime\FileDirectoryDatetime\obj\Debug\netcoreapp3.1\FileDirectoryDatetime.csproj.CopyComplete
+C:\Users\aytnz\Desktop\FileDirectoryDatetime\FileDirectoryDatetime\obj\Debug\netcoreapp3.1\FileDirectoryDatetime.dll
+C:\Users\aytnz\Desktop\FileDirectoryDatetime\FileDirectoryDatetime\obj\Debug\netcoreapp3.1\FileDirectoryDatetime.pdb
+C:\Users\aytnz\Desktop\FileDirectoryDatetime\FileDirectoryDatetime\obj\Debug\netcoreapp3.1\FileDirectoryDatetime.genruntimeconfig.cache
